@@ -36,7 +36,7 @@ pengguna diminta untuk memasukan tiga bilangan satu per satu. Nilai yang dimasuk
    
 fungsi ini akan mencari nilai terbesar dari N bilangan yang dimasukkan pengguna
 
-3. Inisialisasi Variabel:
+2. Inisialisasi Variabel:
 
    terbesar = float('-inf')
 
@@ -44,7 +44,7 @@ fungsi ini akan mencari nilai terbesar dari N bilangan yang dimasukkan pengguna
      
    - ini memastikan bahwa bilangan pertama yang dimasukkan akan selalu lebih dari nilai awal
   
-4. Input jumlah bilangan:
+3. Input jumlah bilangan:
 
    n = int(input("Masukkan jumlah bilangan (N) atau 0 untuk mengakhiri: "))
 
@@ -52,13 +52,13 @@ fungsi ini akan mencari nilai terbesar dari N bilangan yang dimasukkan pengguna
      
    - Input dikonversi ke integer menggunakan int()
 
-5. Pengecekan input awal:
+4. Pengecekan input awal:
 
     - jika pengguna memasukkan 0, program akan menampilkan pesan dan mengakhiri fungsi
       
     - retrun digunakan untuk keluar dari fungsi
 
-6. perulangan dan perbandingan:
+5. perulangan dan perbandingan:
 
     - menggunakan loop for untuk meminta input sebanyak N kali
       
@@ -67,7 +67,9 @@ fungsi ini akan mencari nilai terbesar dari N bilangan yang dimasukkan pengguna
     - jika bilangan yang baru dimasukkan lebih besar, nilai terbesar diperbarui
 
 7. Output hasil :
-   
+
+   ![Screenshot 2024-10-26 120455](https://github.com/user-attachments/assets/de61d1e6-9b40-4c57-9164-028d100bf1f1)
+
 
       
 
