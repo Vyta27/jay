@@ -9,10 +9,12 @@ pengguna diminta untuk memasukan tiga bilangan satu per satu. Nilai yang dimasuk
 2. input pengguna:
 
    a = float(input("Masukan bilangan pertama (A): ")
+   
    b = float(input("Masukan bilangan kedua (B): ")
+   
    c = float(input("Masukan bilangan ketiga (C): ")
    
-3. pengggunaan (in-elif-else) untuk membandingkan ketiga bilangan:
+4. pengggunaan (in-elif-else) untuk membandingkan ketiga bilangan:
 
    -if a > b and a > c: Kondisi ini mengecek apakah a lebih besar dari b dan c. jika benar, maka a adalah bilangan terbesar, dan program mencetak hasilnya.
 
@@ -20,12 +22,62 @@ pengguna diminta untuk memasukan tiga bilangan satu per satu. Nilai yang dimasuk
 
    -else: jika kedua kondisi di atas salah , maka c yang di anggap bilangan terbesar
 
-4. Output:
+5. Output:
 
     - Program mencetak bilangan terbesar yang ditemukan
+   ![Screenshot 2024-10-26 122255](https://github.com/user-attachments/assets/c203a7db-8a55-4f18-acc7-811d5a2dc785)
+
+# 2.) Buat codingan dari flowchart untuk menentukan bilangan terbesar dari N bilangan yang diinputkan, untuk menentukan jumlah N,berikan masukan angka 0 
 
 
+1. Definisi fungsi: def cari_terbesar_dari_n():
    
+fungsi ini akan mencari nilai terbesar dari N bilangan yang dimasukkan pengguna
+
+3. Inisialisasi Variabel:
+
+   terbesar = float('-inf')
+
+   - membuat variabel terbesar dengan nilai awal negatif tak hingga (-inf)
+     
+   - ini memastikan bahwa bilangan pertama yang dimasukkan akan selalu lebih dari nilai awal
+  
+4. Input jumlah bilangan:
+
+   n = int(input("Masukkan jumlah bilangan (N) atau 0 untuk mengakhiri: "))
+
+   - Meminta pengguna memasukkan berapa banyak bilangan yang akan dibandingkan
+     
+   - Input dikonversi ke integer menggunakan int()
+
+5. Pengecekan input awal:
+
+    - jika pengguna memasukkan 0, program akan menampilkan pesan dan mengakhiri fungsi
+      
+    - retrun digunakan untuk keluar dari fungsi
+
+6. perulangan dan perbandingan:
+
+    - menggunakan loop for untuk meminta input sebanyak N kali
+      
+    - setiap input di konversikan ke float dan di bandingkan dengan nilai terbesar saat ini
+      
+    - jika bilangan yang baru dimasukkan lebih besar, nilai terbesar diperbarui
+
+7. Output hasil :
    
+
+      
+
+
+
+
+
+
+
+
+
+
+
 
    
