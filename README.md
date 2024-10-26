@@ -22,12 +22,14 @@ pengguna diminta untuk memasukan tiga bilangan satu per satu. Nilai yang dimasuk
 
    -else: jika kedua kondisi di atas salah , maka c yang di anggap bilangan terbesar
 
-5. Output:
+5. Output hasil:
 
     - Program mencetak bilangan terbesar yang ditemukan
+      
    ![Screenshot 2024-10-26 122255](https://github.com/user-attachments/assets/c203a7db-8a55-4f18-acc7-811d5a2dc785)
 
 # 2.) Buat codingan dari flowchart untuk menentukan bilangan terbesar dari N bilangan yang diinputkan, untuk menentukan jumlah N,berikan masukan angka 0 
+![Screenshot 2024-10-26 120323](https://github.com/user-attachments/assets/b199916e-b5cd-43a1-a0d8-81c90d48c533)
 
 
 1. Definisi fungsi: def cari_terbesar_dari_n():
