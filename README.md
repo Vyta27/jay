@@ -31,8 +31,7 @@ pengguna diminta untuk memasukan tiga bilangan satu per satu. Nilai yang dimasuk
    ![Screenshot 2024-10-26 122255](https://github.com/user-attachments/assets/c203a7db-8a55-4f18-acc7-811d5a2dc785)
 
 # 2.) Buat codingan dari flowchart yang untuk menentukan bilangan terbesar dari N bilangan yang diinputkan, untuk menentukan jumlah N,berikan masukan angka 0 
-
-
+![Screenshot 2024-10-27 102406](https://github.com/user-attachments/assets/750f3304-0243-413b-8e60-9acda617a139)
 
 ![Screenshot 2024-10-26 120323](https://github.com/user-attachments/assets/b199916e-b5cd-43a1-a0d8-81c90d48c533)
 
