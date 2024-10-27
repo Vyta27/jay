@@ -1,5 +1,7 @@
 # praktikum2vyta
 # 1.) Buat codingan dari flowchart yang menentukan bilangan terbesar dari 3 bilangan yang di inputkan
+(https://github.com/user-attachments/assets/b33c737c-4ee8-4a07-a693-8fe6e551b45c)
+
 ![Screenshot 2024-10-26 122223](https://github.com/user-attachments/assets/4b460ad0-908a-47d6-be3b-34154c45121e)
 
 1. input bilangan
@@ -29,6 +31,8 @@ pengguna diminta untuk memasukan tiga bilangan satu per satu. Nilai yang dimasuk
    ![Screenshot 2024-10-26 122255](https://github.com/user-attachments/assets/c203a7db-8a55-4f18-acc7-811d5a2dc785)
 
 # 2.) Buat codingan dari flowchart yang untuk menentukan bilangan terbesar dari N bilangan yang diinputkan, untuk menentukan jumlah N,berikan masukan angka 0 
+https://github.com/user-attachments/assets/8d3c0e2c-ac7a-44ec-9d60-76b4b0139d31
+
 ![Screenshot 2024-10-26 120323](https://github.com/user-attachments/assets/b199916e-b5cd-43a1-a0d8-81c90d48c533)
 
 
